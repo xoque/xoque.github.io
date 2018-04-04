@@ -20,12 +20,11 @@ SCENARIO_DEFINITIONS =
             ,   {"name": "Spitting Drake", "deck_name": "Spitting Drake"}
             ]
         },
-        { name: "#2 Barrow Lair"
+        { name: "#2 Jailbreak"
         , decks:
-            [   {"name": "Bandit Archer"}
-            ,   {"name": "Boss: Bandit Commander"}
-            ,   {"name": "Living Bones"}
-            ,   {"name": "Living Corpse"}
+            [   {"name": "Harrower Infester"}
+            ,   {"name": "City Guard"}
+            ,   {"name": "Giant Viper"}
             ]
         },
         { name: "#3 Inox Encampment"
